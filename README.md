@@ -1,7 +1,7 @@
 JsonParsingChallengeGo
 =====================
 
-This was a fun exercise that was listed by Jorin Vogel in a gist: ["https://gist.github.com/jorin-vogel/2e43ffa981a97bc17259"](JSON Challenge). I think that parsing data is a great programming exercise. 
+This was a fun exercise that was listed by Jorin Vogel in a gist: [JSON Challenge]("https://gist.github.com/jorin-vogel/2e43ffa981a97bc17259"). I think that parsing data is a great programming exercise. 
 
 I first did the challenge in `Elixir`. This is the `Go` version. I have spent more time in `Elixir` and `Erlang` than I have in `Go`.
 Thus, I'm sure there are better ways to write the `Go` code. 
